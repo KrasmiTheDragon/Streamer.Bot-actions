@@ -18,3 +18,5 @@ Here is some handy yet basic Streamer.Bot actions. that you can import. To impor
 # [Chapter-Marker-Creator](https://github.com/KrasmiTheDragon/Streamer.Bot-actions/blob/main/Chapter-Marker-Creator.DRAGON)
  - Creates marker for Twitch VOD highligh & OBS recording.
  - NOTE: on OBS your Recording Format **MUST** be "Hybrid MP4" otherwise that part wont work.
+ - to use with Elgato Stream Deck, recomend to add following argument to SB action in stream deck.
+<img width="363" height="99" alt="image" src="https://github.com/user-attachments/assets/8797a74e-89a9-49ad-8483-0f5beaa6d811" />
